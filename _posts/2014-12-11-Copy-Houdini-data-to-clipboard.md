@@ -13,3 +13,7 @@ excerpt_separator: <!--more-->
 Считал все Bundles вместе с содержимым с одной сессии houdini и вставил в другую.
 
 Думаю можно придумать массу интересных применений для этого модуля.
+
+<center>Ссылка на Github:</center>
+
+<center><a href="https://github.com/mikedatsik/HoudiniClip" class="myButton">Download</a></center>

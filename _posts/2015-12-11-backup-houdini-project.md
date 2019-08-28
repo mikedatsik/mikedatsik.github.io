@@ -11,4 +11,4 @@ excerpt_separator: <!--more-->
 
 <center>Ссылка на Github:</center>
 
-<center><a href="https://github.com/mikedatsik/HoudiniClip" class="myButton">Download</a></center>
+<center><a href="https://github.com/mikedatsik/CollectHoudiniProject" class="myButton">Download</a></center>

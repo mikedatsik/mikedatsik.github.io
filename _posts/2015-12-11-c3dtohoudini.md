@@ -35,4 +35,4 @@ excerpt_separator: <!--more-->
  
 <center>Инструкция по установке и файлы примеров есть на GitHab:</center>
 
-<center><a href="https://github.com/mikedatsik/CollectHoudiniProject" class="myButton">Download</a></center>
+<center><a href="https://github.com/mikedatsik/C3DtoHoudini" class="myButton">Download</a></center>
