@@ -12,17 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kfrankc"
+title                    : "mikedatsik"
 title_separator          : "-"
 name                     : "Frank"
 description              : "Frank - PM, Data, & Illustrations"
-url                      : "https://kfrankc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mikedatsik.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "kfrankc/kfrankc.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "mikedatsik/mikedatsik.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -31,7 +31,7 @@ words_per_minute         : 160
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "kfrankc-com" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "mikedatsik-com" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,9 +83,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "bykfrankc"
+  username               : "mikedatsik"
 facebook:
-  username               : "kfrankc"
+  username               : "mikedatsik"
   app_id                 :
   publisher              :
 og_image                 : /assets/images/portfolio/frank_mrw.png
@@ -95,9 +95,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/bykfrankc"
-    - "https://instagram.com/bykfrankc"
-    - "https://www.linkedin.com/in/kfrankc"
+    - "https://twitter.com/bymikedatsik"
+    - "https://instagram.com/bymikedatsik"
+    - "https://www.linkedin.com/in/mikedatsik"
 
 # Analytics
 analytics:
@@ -110,52 +110,33 @@ analytics:
 # Site Author
 author:
   name             : "Frank"
-  avatar           : "/assets/images/kfrankc_profile.png"
+  avatar           : "/assets/images/mikedatsik_profile.png"
   bio              : "PM, Data, & Illustrations"
-  location         : "Microsoft, Redmond"
+  location         : "Room 8 Studio, Kiev"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kfrankc@uw.edu
-    - label: "Keybase"
-      icon: "fab fa-fw fa-keybase"
-      url: "https://keybase.io/kfrankc"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/bykfrankc"
+      url: mailto:mikedatsik@uw.edu
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/kfrankc"
+      url: "https://linkedin.com/in/mikedatsik"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kfrankc"
+      url: "https://github.com/mikedatsik"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/bykfrankc"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium"
-      url: "https://medium.com/@kfrankc"
-    - label: "Goodreads"
-      icon: "fab fa-fw fa-goodreads"
-      url: "https://goodreads.com/kfrankc"
+      url: "https://instagram.com/bymikedatsik"
 
 # Site Footer
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin/in/kfrankc"
+      url: "https://linkedin/in/mikedatsik"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/bykfrankc"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/bykfrankc"
-    - label: "Goodreads"
-      icon: "fab fa-fw fa-goodreads"
-      url: "https://goodreads.com/bykfrankc"
-
+      url: "https://instagram.com/bymikedatsik"
 
 # Reading Files
 include:
