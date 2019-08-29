@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "mikedatsik"
 title_separator          : "-"
-name                     : "Frank"
-description              : "Frank - PM, Data, & Illustrations"
+name                     : "Mykhailo Datsyk"
+description              : "Mykhailo Datsyk - VFX Supervisor, TD in Film and Media."
 url                      : "https://mikedatsik.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mikedatsik/mikedatsik.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -31,7 +31,7 @@ words_per_minute         : 160
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "mikedatsik-com" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "mykhailodatsyk" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -88,55 +88,55 @@ facebook:
   username               : "mikedatsik"
   app_id                 :
   publisher              :
-og_image                 : /assets/images/portfolio/frank_mrw.png
+og_image                 : /assets/images/portfolio/mikedatsik_mrw.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/bymikedatsik"
-    - "https://instagram.com/bymikedatsik"
-    - "https://www.linkedin.com/in/mikedatsik"
+    - "https://twitter.com/mikedatsik"
+    - "https://instagram.com/mikedatsik"
+    - "https://www.linkedin.com/in/mykhailo-datsyk"
 
 # Analytics
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-128201385-1"
+    tracking_id          : "UA-146660431-1"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Frank"
+  name             : "Mykhailo Datsyk"
   avatar           : "/assets/images/mikedatsik_profile.png"
-  bio              : "PM, Data, & Illustrations"
+  bio              : "VFX Supervisor, TD in Film and Media."
   location         : "Room 8 Studio, Kiev"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:mikedatsik@uw.edu
+      url: mailto:mikedatsik@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/mikedatsik"
+      url: "https://linkedin.com/in/mykhailo-datsyk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mikedatsik"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/bymikedatsik"
+      url: "https://instagram.com/mikedatsik"
 
 # Site Footer
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin/in/mikedatsik"
+      url: "https://linkedin/in/mykhailo-datsyk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/bymikedatsik"
+      url: "https://instagram.com/mikedatsik"
 
 # Reading Files
 include:
