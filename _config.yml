@@ -127,6 +127,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mikedatsik"
+    - label: "IMDb"
+      icon: "fab fa-fw fa-imdb"
+      url: "https://www.imdb.com/name/nm6218686"
 
 # Site Footer
 footer:
