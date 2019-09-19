@@ -13,23 +13,27 @@ layout: single
 toc: true
 header:
   og_image: /assets/images/blog/2015-12-11-motilkyves/title.jpg
+gallery:
+  - url: /assets/images/blog/2015-12-11-motilkyves/IMG_0154-224x300.jpg
+    image_path: assets/images/blog/2015-12-11-motilkyves/IMG_0154-224x300.jpg
+  - url: /assets/images/blog/2015-12-11-motilkyves/IMG_0161-226x300.jpg
+    image_path: assets/images/blog/2015-12-11-motilkyves/IMG_0161-226x300.jpg
 ---
 
 {% include figure image_path="/assets/images/blog/2015-12-11-motilkyves/title.jpg" %}
-Наша последняя работа попала в номинацию на премию VES, чему я очень рад. Мы даже попали в две номинации:
+
+Our last job nominated for VES Award. We even got two categories:
 {: .text-justify .text-ident}
 
-* «Выдающиеся эффекты в ТВ Сериале»
-* «За создание окружающей среды в ТВ Сериале или Рекламе»
+* «Outstanding Visual Effects in the TV Series»
+* «Creating Environment in the TV Series or Advertising»
 
-Ссылка на Imdb: http://www.imdb.com/title/tt2934916/
+<center>Link to Imdb:</center>
+[IMDb](http://www.imdb.com/title/tt2934916){: .btn .btn--info .btn--bcenter }
 
-Ссылка на VES: http://www.visualeffectssociety.com/awards/ves
+{% include gallery %}
 
-![c3dtohoudini](/assets/images/blog/2015-12-11-motilkyves/IMG_0154-224x300.jpg)
-![c3dtohoudini](/assets/images/blog/2015-12-11-motilkyves/IMG_0161-226x300.jpg)
-
-Мы работали над проектом чуть больше полугода, за это время успели построить почти 50-ти километровую зону вокруг Чернобыльской станции, по огромному количеству материалов, фотографий, рассказов очевидцев. После этого, в фильме, вместе с режиссером мы постарались воссоздать всю хронологию страшных событий тех дней. Было сделано колоссальное количество работы, мы старались воссоздать максимальную историческую правду. Я участвовал на проекте как FX Lead. Что у нас получилось можно увидеть в making-off ниже. Приятного просмотра.
+We worked on the project a little more than six months, during which time we managed to build an almost 50-kilometer zone around the Chernobyl station, based on a huge amount of materials, photos, eyewitness. After that, in the film, together with the director, we tried to recreate the entire chronology of the terrible events of those days. A tremendous amount of work was done, we tried to recreate the maximum historical truth. I participated in the project as FX Lead. What we got can be seen in the making-off below. Enjoy watching.
 {: .text-justify .text-ident}
 
 <iframe src="https://player.vimeo.com/video/64224323" width="560" height="315" frameborder="0"> </iframe>
