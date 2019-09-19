@@ -1,5 +1,5 @@
 ---
-title: "Вышел «Полярный Рейс», новый фильм над которым я работал."
+title: "The Polar Flight was released, a new film I worked on."
 date: 2014-02-12
 permalink: /posts/2014/02/12/polartrip
 tags:
@@ -17,16 +17,16 @@ header:
 
 {% include figure image_path="/assets/images/blog/2014-02-12-polartrip/title.png" %}
 
-В новогодние праздники вышел новый фильм «Полярный Рейс», про целую череду приключений, через которую проходит главный герой — летчик переправляющий грузы далеко за полный круг, возвращаясь к своей семье. Режиссер фильма Сергей Чеколов.
+On New Year's holidays, the new film "Polar Flight" was released, about a series of adventures through which the protagonist passes - the pilot transporting goods far beyond the polar circle, returning to his family.  The film is directed by Sergei Chekalov.
 {: .text-justify .text-ident}
 
-Я выступал супервайзером проекта и по совместительству делал очень большое количество работы. Жалко что не было ресурсов моих и компании чтобы сделать пост во всем фильме самим, потому пришлось многое аутсорсить. Видео и подробности в теле поста.
+I was a project VFX supervisor and did a very large amount of work.  It is a pity that there were no resources of mine and the company to make a post in the entire film ourselves, because I had to outsource a lot.  Video and details in the body of the post.
 {: .text-justify .text-ident}
 
-Съемки проходили в жутком холоде на военном аэродроме, на троллейбусной станции и еще во многих других местах, но атмосфера на площадке была очень хорошая и многое просто не замечалось. Я очень благодарен команде которая прислушивалась к моим советам по поводу съемки для дальше обработки!
+The shooting took place in a terrible cold at the military airfield, at the trolleybus station and in many other places, but the atmosphere on the site was very good and a lot troubles was simply not noticed.  I am very grateful to the team who listened to my advice on shooting for further processing!
 {: .text-justify .text-ident}
 
-Фильм можно посмотреть в кинотеатрах и на DVD. Ниже маленький монтаж-making off нарезанный из части над которой я трудился. Я делал Animation(с Юрой Бородиным), FX, Clouns, Shading, Render. Приятного просмотра.
+The film can be watched in movie theaters and on DVD.  Below is a small making-off sliced from the part on which I worked.  I did Animation (with Yura Borodin), FX, Clouds, Shading, Render.  Enjoy watching.
 {: .text-justify .text-ident}
 
 <iframe src="https://player.vimeo.com/video/94162893" width="560" height="315" frameborder="0"> </iframe>
