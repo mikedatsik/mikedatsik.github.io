@@ -113,7 +113,7 @@ author:
   avatar           : "/assets/images/mikedatsik_profile.png"
   bio              : "VFX Supervisor, TD in Film and Media."
   location         : "Kiev, Ukraine"
-  email            : mikedatsik@gmail.com
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
