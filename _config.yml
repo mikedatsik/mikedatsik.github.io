@@ -31,7 +31,7 @@ words_per_minute         : 160
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "mykhailodatsyk" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "mikedatsik" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,12 +83,12 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "mikedatsik"
+  username               : "MDatsik"
 facebook:
-  username               : "mikedatsik"
+  username               : "mike.datsik"
   app_id                 :
   publisher              :
-og_image                 : /assets/images/portfolio/mikedatsik_mrw.png
+og_image                 : /assets/images/portfolio/mikedatsik.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -113,7 +113,7 @@ author:
   avatar           : "/assets/images/mikedatsik_profile.png"
   bio              : "VFX Supervisor, TD in Film and Media."
   location         : "Kiev, Ukraine"
-  email            : 
+  email            : mikedatsik@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

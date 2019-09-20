@@ -20,9 +20,6 @@ gallery:
 
 {% include figure image_path="/assets/images/portfolio/hboChernobyl.jpg" alt="Chernobyl" %}
 
-In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.
-{: .text-justify .text-ident}
-
 {% capture notice-2 %}
 #### ROLE:
 
@@ -30,6 +27,9 @@ In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of
 {% endcapture %}
 
 <div class="notice--success">{{ notice-2 | markdownify }}</div>
+
+In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.
+{: .text-justify .text-ident}
 
 {% include gallery %}
 
